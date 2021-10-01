@@ -18,7 +18,7 @@ Let’s create a map that shows the Taj Mahal in Agra, India.
 library(leaflet)
 my_map <- leaflet() %>%
 addTiles()
-
+ 
 ```
 
 Create a link to the official site of Taj Mahal from where we could get relevant information. 
